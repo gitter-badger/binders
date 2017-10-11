@@ -3,6 +3,8 @@
 
 # About
 
+[![Join the chat at https://gitter.im/Hypertino/binders](https://badges.gitter.im/Hypertino/binders.svg)](https://gitter.im/Hypertino/binders?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 _binders_ is a Scala/Scala.js library for creating serialization/mapping libraries and frameworks. 
 
 The aim of _binders_ 
